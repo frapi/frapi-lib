@@ -14,3 +14,10 @@ nbproject
 # Ignore the PhpStorm project folder
 #
 .idea
+
+#
+# Ignore other generic files
+#
+
+.DS_Store
+*.bak
